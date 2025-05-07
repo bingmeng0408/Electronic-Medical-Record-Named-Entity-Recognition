@@ -1,0 +1,13 @@
+{
+"O":0,
+"TREATMENT-B": 1,
+"TREATMENT-I": 2,
+"BODY-B": 3,
+"BODY-I": 4,
+"SIGNS-B": 6,
+"SIGNS-I": 6,
+"CHECK-B": 7,
+"CHECK-I": 8,
+"DISEASE-B": 9,
+"DISEASE-I": 10
+}
